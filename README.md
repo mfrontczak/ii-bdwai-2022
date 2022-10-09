@@ -1,1 +1,1 @@
-# ii-bazy-danych-w-aplikacjach-internetowych-2022
+# Bazy Danych w Aplikacjach Internetowych
