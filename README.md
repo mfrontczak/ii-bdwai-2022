@@ -1,6 +1,15 @@
 # Bazy Danych w Aplikacjach Internetowych
 ## Laboratorium - 30h
 
+Forma zaliczenia: **Zal. z ocena**
+
+**Pod koniec zajęć należy przesłać na adres email michal.frontczak1📧up.krakow.pl rozwiązane zadania.**
+
+Szablon tematu wiadomości BDWAI [grupa] Imię i Nazwisko
+
+Na przykład:
+BDWAI L1 Jan Kowalski
+
 ### Wprowadzenie do C#
 - [Lab 01 - Wprowadzenie do C#](lab/01_intro.md)
 - [Lab 02 - Tworzenie klas](lab/02_klasy.md)
@@ -14,7 +23,8 @@
 ### Zaawansowany SQL
 - [Lab 07 - SQL](#)
 - [Lab 08 - SQL](#)
+- [Lab 09 - SQL](#)
 
 ### ASP.NET
-- [Lab 09 - Wstęp do ASP.NET](#)
-- [Lab 10 - MVC i inne wzroce](#)
+- [Lab 10 - Wprowadzenie do ASP.NET](#)
+- [Lab 11 - MVC i inne wzroce](#)
