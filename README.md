@@ -1,7 +1,20 @@
 # Bazy Danych w Aplikacjach Internetowych
+## Laboratorium - 30h
 
+### Wprowadzenie do C#
+- [Lab 01 - Wprowadzenie do C#](lab/01_intro.md)
+- [Lab 02 - Tworzenie klas](lab/02_klasy.md)
+- [Lab 03 - Tworzenie zaawansowanych klas i interfejsów](#)
+- [Lab 04 - Operacje na plikach i wyjątki](#)
 
-* https://learn.microsoft.com/pl-pl/dotnet/csharp/fundamentals/types/
-* https://learn.microsoft.com/pl-pl/dotnet/csharp/fundamentals/program-structure/top-level-statements
+### Przypomnienie SQL
+- [Lab 05 - SQL](#)
+- [Lab 06 - SQL](#)
 
-[Lab 1 - Wprowadzenie do C#](https://learn.microsoft.com/pl-pl/dotnet/csharp/tour-of-csharp/tutorials/)
+### Zaawansowany SQL
+- [Lab 07 - SQL](#)
+- [Lab 08 - SQL](#)
+
+### ASP.NET
+- [Lab 09 - Wstęp do ASP.NET](#)
+- [Lab 10 - MVC i inne wzroce](#)
