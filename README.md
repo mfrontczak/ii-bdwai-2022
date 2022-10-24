@@ -13,7 +13,7 @@ BDWAI L1 Jan Kowalski
 ### Wprowadzenie do C#
 - [Lab 01 - Wprowadzenie do C#](lab/01_intro.md)
 - [Lab 02 - Tworzenie klas](lab/02_klasy.md)
-- [Lab 03 - Tworzenie zaawansowanych klas i interfejsów](#)
+- [Lab 03 - Tworzenie zaawansowanych klas i interfejsów](lab/03_dziedziczenie_i_interfejsy.md)
 - [Lab 04 - Operacje na plikach i wyjątki](#)
 
 ### Przypomnienie SQL
