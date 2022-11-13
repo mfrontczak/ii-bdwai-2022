@@ -17,7 +17,7 @@ BDWAI L1 Jan Kowalski
 - [Lab 04 - Operacje na plikach i wyjątki](lab/04_pliki_i_wyjatki.md)
 
 ### Przypomnienie SQL
-- [Lab 05 - SQL](#)
+- [Lab 05 - Wstęp do Microsoft SQL](lab/05_intro_baza_danych.md)
 - [Lab 06 - SQL](#)
 
 ### Zaawansowany SQL
