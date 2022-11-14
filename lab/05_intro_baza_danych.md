@@ -30,3 +30,13 @@
 | 3  | Veggie     | 12,00 | Red Peppers, Onions, Mushrooms, Green Olives, Italian Seasoning |
 | 4  | Pepperoni  | 7,99  | Pepperoni                                                       |
 | 5  | Meat Lover | 12,99 | Pepperoni, Italian Sausage, Bacon                               |
+
+2. Zrób backup bazy danych.
+3. Wyświetl wszystkich pracowników - ich imię, nazwisko, płacę oraz płacę powiększoną o 20%.
+4. Wyświetl inicjały pracowników zbudowane z ich imienia i nazwiska. 
+5. Policz ile lat pracuje każdy z pracowników.
+6. Wyświetl pracowników pracujących ponad 8 lat.
+7. Wyświetl pracowników zatrudnionych między 2012 a 2014.
+8. Wyświetl wszystkie pizze zaczynające się na literę P lub H.
+9. Wyświetl wszystkie pizze zawierające 'Pepperoni' w składnikach.
+10.  Dla każdego pracownika wyświetl jego nazwisko, płacę podstawową i informację o tym, czy jego pensja jest mniejsza, równa lub większa od 1700. Wyniki posortuj wg nazwisk pracowników.
