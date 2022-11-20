@@ -16,14 +16,12 @@ BDWAI L1 Jan Kowalski
 - [Lab 03 - Tworzenie zaawansowanych klas i interfejsów](lab/03_dziedziczenie_i_interfejsy.md)
 - [Lab 04 - Operacje na plikach i wyjątki](lab/04_pliki_i_wyjatki.md)
 
-### Przypomnienie SQL
+### SQL
 - [Lab 05 - Wstęp do Microsoft SQL](lab/05_intro_baza_danych.md)
-- [Lab 06 - SQL](#)
-
-### Zaawansowany SQL
-- [Lab 07 - SQL](#)
-- [Lab 08 - SQL](#)
-- [Lab 09 - SQL](#)
+- [Lab 06 - Funkcje agregujące, Podzapytania](lab/06_agregacja_podzapytania.md)
+- [Lab 07 - Zapytania zagnieżdżone](lab/07_zapytania_zagniezdzone.md)
+- [Lab 08 - Widoki, Triggery](lab/08_widoki_triggery.md)
+- [Lab 09 - Procedury](lab/09_procedury.md)
 
 ### ASP.NET
 - [Lab 10 - Wprowadzenie do ASP.NET](#)
