@@ -29,3 +29,10 @@
 | 1  | Benedict  | Cucumber      | New York | 729 7th Avenue | 555-123-1234 |  10019   |
 | 2  | Bill      | Washington    | New York | 20 W 34th St   | 555-123-1234 |  10010   |
 
+2. Wyświetl nazwy etatów pracowników przyjętych w 2013 roku.
+3. Wyświetl zamówienia wraz z dodatkowymi informacjami.
+4. Wyświetl zamówienia wraz z całkowitą wartością zamówienia. 
+5. Dla każdego klienta wyświetl jego zamówienia. 
+6. Wyświetl zamówienia klientów którzy złożyli więcej niż 2 zamówienia.
+7. Wyświetl średnią wartość zamówienia oraz dochód dla zamówień z 11.11.2022.
+
