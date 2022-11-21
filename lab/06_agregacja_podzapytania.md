@@ -35,4 +35,4 @@
 5. Dla każdego klienta wyświetl jego zamówienia. 
 6. Wyświetl zamówienia klientów którzy złożyli więcej niż 2 zamówienia.
 7. Wyświetl średnią wartość zamówienia oraz dochód dla zamówień z 11.11.2022.
-
+8. Sprawdź czy wszystkie daty wysyłki zamówień są poprawne (max 30 min od zamówienia), jeżeli nie zaktualizuj ją używając zapytania UPDATE do wartości OrderDate + 30 minut.
