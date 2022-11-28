@@ -5,3 +5,4 @@
 2. Wyświetl wszystkich pracowników zarabiających powyżej średniej płacy minimalnej dla każdego stanowiska.
 3. Wyświetl informację jak imię, nazwisko, nazwa stanowiska pracownika oraz informację o zamówieniach które ma obsłużyć.
 4. Sprawdź czy zamówienia są obsługiwane przez inną osobę niż na stanowisku Pizzaiolo.  
+5. Znajdź wszystkich pracowników zarabiających mniej niż Manager. 
