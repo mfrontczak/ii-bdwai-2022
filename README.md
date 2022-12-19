@@ -24,5 +24,4 @@ BDWAI L1 Jan Kowalski
 - [Lab 09 - Procedury](lab/09_procedury.md)
 
 ### ASP.NET
-- [Lab 10 - Wprowadzenie do ASP.NET](#)
-- [Lab 11 - MVC i inne wzroce](#)
+- [Lab 10 - Wprowadzenie do ASP.NET MVC](lab/mvc/10_wstep_do_mvc.md)
