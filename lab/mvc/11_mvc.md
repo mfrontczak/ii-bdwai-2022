@@ -24,7 +24,7 @@
         // zaimplementuj
       }
 
-      internal static void RemoveDish(int? id)
+      public static void RemoveDish(int? id)
       {
         // zaimplementuj
       }
