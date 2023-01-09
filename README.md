@@ -25,4 +25,4 @@ BDWAI L1 Jan Kowalski
 
 ### ASP.NET
 - [Lab 10 - Wprowadzenie do ASP.NET MVC](lab/mvc/10_wstep_do_mvc.md)
-- [Lab 11 - Akcje](lab/mvc/11_akcje.md)
+- [Lab 11 - Projekt MVC](lab/mvc/11_mvc.md)
