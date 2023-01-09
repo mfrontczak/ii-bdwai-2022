@@ -40,4 +40,4 @@
 RemoveDish powinno ustawiać pole **IsAvailable** na false.
 5. Zmodyfikuj akcję **Index** aby wyświetlała tylko dostępne potrawy.
 6. Dodaj formularz pozwalający na dodawanie nowych dań, pamiętaj o zastosowaniu specjalnych tagów asp.
-
+7. Dodaj nową akcję pozwalającą na "usunięcie" danego dania z listy.
